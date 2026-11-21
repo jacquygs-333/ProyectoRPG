@@ -8,3 +8,6 @@ Ejectutar el siguiente comando en la terminal en la carpeta del proyecto "python
 
 ## Autor
 Jacqueline Guillen Soto
+
+## Versión 
+En desarrollo
